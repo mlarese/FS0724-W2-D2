@@ -1,7 +1,7 @@
 
 
 ### **Esercizio #1 (Set e HashSet)**
-Scrivere un programma che chieda all'utente di inserire un numero intero \( M \) che rappresenta il numero di frasi da inserire. Il programma dovrà:
+Scrivere un programma che chieda all'utente di inserire un numero intero \( m \) che rappresenta il numero di frasi da inserire. Il programma dovrà:
 1. Stampare tutte le frasi che contengono una parola duplicata al loro interno.
 2. Stampare il numero totale di parole uniche in tutte le frasi.
 3. Stampare un elenco ordinato alfabeticamente delle parole uniche.  
